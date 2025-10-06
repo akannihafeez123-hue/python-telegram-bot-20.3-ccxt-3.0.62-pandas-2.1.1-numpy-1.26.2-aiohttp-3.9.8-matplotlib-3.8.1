@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Logs
+*.log
+trade_attempts.csv
+trade_attempts.jsonl
+
+# System files
+.DS_Store
+Thumbs.db
